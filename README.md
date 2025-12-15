@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<a href="https://chakerncb.github.io/Portfolio/" align="left">My Portfolio !!!! </a>
+<a href="https://chakerncb.github.io/Portfolio/" target="_blank" align="left">My Portfolio !!!! </a>
 
 ###
 
